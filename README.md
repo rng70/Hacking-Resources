@@ -14,6 +14,34 @@ This is only for keeping some resources and topics in one-place to access easily
 
 1. [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
 
+<h2>Tools</h2>
+
+1. [Regon-ng](https://github.com/jhaddix/domain "https://github.com/jhaddix/domain")
+2. [Intrigue](https://github.com/intrigueio/intrigue-core "https://github.com/intrigueio/intrigue-core")
+3. [SecLists](https://github.com/danielmiessler/SecLists "https://github.com/danielmiessler/SecLists")
+4. [Autorize](https://github.com/Quitten/Autorize#autorize "https://github.com/Quitten/Autorize#autorize")
+5. [ForceSSL](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL "https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL")
+
+<h2>Best SQL injection resources</h2>
+
+- MySQL:
+  - [PentestMonkey's mySQL injection cheat sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
+  - [Reiners mySQL injection Filter Evasion Cheatsheet](https://websec.wordpress.com/2010/12/04/sqli-filter-evasion-cheat-sheet-mysql/)
+- MSQQL:
+  - [EvilSQL's Error/Union/Blind MSSQL Cheatsheet](http://evilsql.com/main/page2.php)
+  - [PentestMonkey's MSSQL SQLi injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
+- ORACLE:
+  - [PentestMonkey's Oracle SQLi Cheatsheet](http://pentestmonkey.net/cheat-sheet/sql-injection/oracle-sql-injection-cheat-sheet)
+- POSTGRESQL:
+  - [PentestMonkey's Postgres SQLi Cheatsheet](http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet)
+- Others
+  - [Access SQLi Cheatsheet](http://nibblesec.org/files/MSAccessSQLi/MSAccessSQLi.html)
+  - [PentestMonkey's Ingres SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/ingres-sql-injection-cheat-sheet)
+  - [Pentestmonkey's DB2 SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/db2-sql-injection-cheat-sheet)
+  - [Pentestmonkey's Informix SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/informix-sql-injection-cheat-sheet)
+  - [SQLite3 Injection Cheat sheet](https://sites.google.com/site/0x7674/home/sqlite3injectioncheatsheet)
+  - [Ruby on Rails (Active Record) SQL Injection Guide](http://rails-sqli.org/)
+
 <h2></br>Hacker101 Syllabus</h2>
 
 1. 1.HTTP basics
@@ -161,7 +189,36 @@ This is only for keeping some resources and topics in one-place to access easily
 ---
 
 1. Remote and Local file inclusion (RFI and LFI)
+
+   ​			Malicious File Upload
+
+   ​						This is an important and common attack vector in this type of testing.
+   ​						A file upload functions need a lot of protections to be adequately secure.
+
+   ​					Attacks:
+
+   ​								1. Upload unexpected file format to achieve code exec (swf, html, php, php3, aspx, ++) Web shells or...
+
+   ​								2. Execute XSS via same types of files. Images as well!
+
+   ​								3. Attack the parser to DOS the site or XSS via storing payloads in metadata or file header
+
+   ​								4. Bypass security zones and store malware on target site via file polyglots
+
+   File upload attacks are a whole presentation. Try this one to get a feel for bypass techniques:
+
+   ​								5. content type spoofing
+
+   ​								6. extension trickery
+
+   - [File in the hole! presentaion](https://www.nds.rub.de/media/attachments/files/2012/11/File-in-the-hole.pdf)
+
+   As referenced file polyglots can be used to store malware on servers!
+   [See @dan_crowley ‘s talk](http://goo.gl/pquXC2)
+   [and @angealbertini research:](corkami.com)
+
 2. X-path
+
 3. Cryptography
 
 
