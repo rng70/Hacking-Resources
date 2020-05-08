@@ -1,3 +1,0 @@
-## Insecure Direct Object References
-
-To be continued ...
