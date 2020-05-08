@@ -13,6 +13,7 @@ This is only for keeping some resources and topics in one-place to access easily
 <h2>Course Links</h2>
 
 1. [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
+2. [MyCollection](https://drive.google.com/drive/folders/1X8gUaDVnCPBaOXpnTRHE0hn2ZKtO9GJx?usp=sharing "rng70's drive")
 
 <h2>Tools</h2>
 
