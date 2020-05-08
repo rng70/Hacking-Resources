@@ -10,7 +10,7 @@ This is only for keeping some resources and topics in one-place to access easily
 
 <h1>Links of Different Topics</h1>
 
-	<h2>Course Links</h2>
+<h2>Course Links</h2>
 
 1. [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
 
