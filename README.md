@@ -43,6 +43,26 @@ This is only for keeping some resources and topics in one-place to access easily
   - [SQLite3 Injection Cheat sheet](https://sites.google.com/site/0x7674/home/sqlite3injectioncheatsheet)
   - [Ruby on Rails (Active Record) SQL Injection Guide](http://rails-sqli.org/)
 
+<h2>CTF</h2>
+
+1. Practice:
+   1. [picoCTF](https://picoctf.com "https://picoctf.com")
+   2. [catb](http://www.catb.org/~esr/faqs/hacker-howto.html "http://www.catb.org/~esr/faqs/hacker-howto.html")
+   3. [OverTheWire](https://overthewire.org/wargames/ "https://overthewire.org/wargames/")
+   4. [Microcorruption](https://microcorruption.com/login "https://microcorruption.com/login")
+   5. [Google CTF](https://capturetheflag.withgoogle.com "https://capturetheflag.withgoogle.com")
+   6. [Crypto Challenges](https://cryptopals.com "https://cryptopals.com")
+   7. [CTFs](https://github.com/ctfs "https://github.com/ctfs")
+2. Read to Learn:
+   1. [CTF Field Guide](http://trailofbits.github.io/ctf/ "http://trailofbits.github.io/ctf/")
+   2. [DEF CON CTF](https://oooverflow.io "https://oooverflow.io")
+   3. [CTFTime](https://ctftime.org/ctfs "https://ctftime.org/ctfs")
+   4. [Awesome Guide](https://www.osusec.org/resources/ "https://www.osusec.org/resources/")
+   5. [Nightmare](https://guyinatuxedo.github.io "https://guyinatuxedo.github.io")
+   6. 
+
+
+
 <h2></br>Hacker101 Syllabus</h2>
 
 1. 1.HTTP basics
