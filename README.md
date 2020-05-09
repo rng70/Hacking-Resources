@@ -18,10 +18,24 @@ This is only for keeping some resources and topics in one-place to access easily
 <h2>Tools</h2>
 
 1. [Regon-ng](https://github.com/jhaddix/domain "https://github.com/jhaddix/domain")
+
 2. [Intrigue](https://github.com/intrigueio/intrigue-core "https://github.com/intrigueio/intrigue-core")
+
 3. [SecLists](https://github.com/danielmiessler/SecLists "https://github.com/danielmiessler/SecLists")
+
 4. [Autorize](https://github.com/Quitten/Autorize#autorize "https://github.com/Quitten/Autorize#autorize")
+
 5. [ForceSSL](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL "https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL")
+
+6. [binwalk](https://github.com/ReFirmLabs/binwalk "https://github.com/ReFirmLabs/binwalk")
+
+7. [stegsolve (hidden text discover tool)](http://www.caesum.com/handbook/Stegsolve.jar "http://www.caesum.com/handbook/Stegsolve.jar")
+
+8. [zardus/ctf-tools](https://github.com/zardus/ctf-tools "https://github.com/zardus/ctf-tools")
+
+9. [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite "https://github.com/DidierStevens/DidierStevensSuite")
+
+   
 
 <h2>Best SQL injection resources</h2>
 
@@ -53,17 +67,35 @@ This is only for keeping some resources and topics in one-place to access easily
    5. [Google CTF](https://capturetheflag.withgoogle.com "https://capturetheflag.withgoogle.com")
    6. [Crypto Challenges](https://cryptopals.com "https://cryptopals.com")
    7. [CTFs](https://github.com/ctfs "https://github.com/ctfs")
+   8. [CTFlearn](https://ctflearn.com "https://ctflearn.com")
+   9. [Attack-Defend Style CTF](http://usscouts.org/games/game_cf.asp "http://usscouts.org/games/game_cf.asp")
+   10. [HSCTF 7](https://hsctf.com "https://hsctf.com")
 2. Read to Learn:
    1. [CTF Field Guide](http://trailofbits.github.io/ctf/ "http://trailofbits.github.io/ctf/")
    2. [DEF CON CTF](https://oooverflow.io "https://oooverflow.io")
    3. [CTFTime](https://ctftime.org/ctfs "https://ctftime.org/ctfs")
    4. [Awesome Guide](https://www.osusec.org/resources/ "https://www.osusec.org/resources/")
    5. [Nightmare](https://guyinatuxedo.github.io "https://guyinatuxedo.github.io")
-   6. 
+   6. [CTF Resources](http://ctfs.github.io/resources/ "http://ctfs.github.io/resources/")
+   7. [Awesome CTF](https://github.com/apsdehal/awesome-ctf "https://github.com/apsdehal/awesome-ctf")
+   8. [Hacking Articles (walkthroughs)](https://www.hackingarticles.in/ctf-challenges-walkthrough/ "https://www.hackingarticles.in/ctf-challenges-walkthrough/")
+   9. [Antifa](https://github.com/AnarchoTechNYC/meta "https://github.com/AnarchoTechNYC/meta")
+   10. [Competition's Write-ups](https://nsec.io/competition-write-ups/ "https://nsec.io/competition-write-ups/")
 
+<h2>CTF Framework</h2>
 
+---
+
+1. https://ctfd.io
+2. [Facebook’s CTF framework](https://github.com/facebook/fbctf "https://github.com/facebook/fbctf")
+3. [iCTF](https://github.com/ucsb-seclab/ictf-framework "https://github.com/ucsb-seclab/ictf-framework")
+4. [Mellivora](https://github.com/Nakiami/mellivora "https://github.com/Nakiami/mellivora")
+5. [NightShade](https://github.com/UnrealAkama/NightShade "https://github.com/UnrealAkama/NightShade")
+6. [LibreCTF](https://github.com/easyctf/librectf "https://github.com/easyctf/librectf")
 
 <h2></br>Hacker101 Syllabus</h2>
+
+---
 
 1. 1.HTTP basics
 2. Cookie Security
@@ -270,3 +302,4 @@ This is only for keeping some resources and topics in one-place to access easily
 1. HTML and CSS Injection
 2. Remote code execution and Directory Traversing
 3. Android Keylogger
+4. Steganography
