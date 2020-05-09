@@ -240,6 +240,8 @@ This is only for keeping some resources and topics in one-place to access easily
 2. Cross site scripting
 3. Bypass it
 4. Authentication Bypass
+5. Cookie Injection
+6. Man-in-the-Middle 
 
 <h3>Extra</h3>
 
