@@ -2,7 +2,7 @@
 
 ---
 
- This repository contains some resources for ethical hackers and penetration tester :) . This may contains some books, files, tools lists, links and so on that needs to be used for good purpose only. Do not do any illegal work using these sources.
+ This repository contains some resources for ethical hackers and penetration tester 😊. This may contains some books, files, tools lists, links and so on that needs to be used for good purpose only. Do not do any illegal work using these sources.
 
 This is only for keeping some resources and topics in one-place to access easily
 
