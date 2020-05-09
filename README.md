@@ -14,6 +14,7 @@ This is only for keeping some resources and topics in one-place to access easily
 
 1. [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
 2. [MyCollection](https://drive.google.com/drive/folders/1X8gUaDVnCPBaOXpnTRHE0hn2ZKtO9GJx?usp=sharing "rng70's drive")
+3. [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/")
 
 <h2>Tools</h2>
 
@@ -81,6 +82,8 @@ This is only for keeping some resources and topics in one-place to access easily
    8. [Hacking Articles (walkthroughs)](https://www.hackingarticles.in/ctf-challenges-walkthrough/ "https://www.hackingarticles.in/ctf-challenges-walkthrough/")
    9. [Antifa](https://github.com/AnarchoTechNYC/meta "https://github.com/AnarchoTechNYC/meta")
    10. [Competition's Write-ups](https://nsec.io/competition-write-ups/ "https://nsec.io/competition-write-ups/")
+   11. [Pentesting Wiki](https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?fbclid=IwAR3ejbPKCOWvCVvP_PrTegfpwC3tn35Jwyx8g2W39c2CSt93TzDtvRo5Qyw "https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?fbclid=IwAR3ejbPKCOWvCVvP_PrTegfpwC3tn35Jwyx8g2W39c2CSt93TzDtvRo5Qyw")
+   12. [Practice CTF List](https://captf.com/practice-ctf/?fbclid=IwAR2V2YdeaRsIDwIs2ywCAHD577fyjMLEPz0ff54uOA9vnagZdRXyBJb6CpU "https://captf.com/practice-ctf/?fbclid=IwAR2V2YdeaRsIDwIs2ywCAHD577fyjMLEPz0ff54uOA9vnagZdRXyBJb6CpU")
 
 <h2>CTF Framework</h2>
 
