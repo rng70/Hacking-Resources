@@ -71,6 +71,7 @@ This is only for keeping some resources and topics in one-place to access easily
    8. [CTFlearn](https://ctflearn.com "https://ctflearn.com")
    9. [Attack-Defend Style CTF](http://usscouts.org/games/game_cf.asp "http://usscouts.org/games/game_cf.asp")
    10. [HSCTF 7](https://hsctf.com "https://hsctf.com")
+   11. [0xRick](https://0xrick.github.io "https://0xrick.github.io")
 2. Read to Learn:
    1. [CTF Field Guide](http://trailofbits.github.io/ctf/ "http://trailofbits.github.io/ctf/")
    2. [DEF CON CTF](https://oooverflow.io "https://oooverflow.io")
@@ -84,6 +85,7 @@ This is only for keeping some resources and topics in one-place to access easily
    10. [Competition's Write-ups](https://nsec.io/competition-write-ups/ "https://nsec.io/competition-write-ups/")
    11. [Pentesting Wiki](https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?fbclid=IwAR3ejbPKCOWvCVvP_PrTegfpwC3tn35Jwyx8g2W39c2CSt93TzDtvRo5Qyw "https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?fbclid=IwAR3ejbPKCOWvCVvP_PrTegfpwC3tn35Jwyx8g2W39c2CSt93TzDtvRo5Qyw")
    12. [Practice CTF List](https://captf.com/practice-ctf/?fbclid=IwAR2V2YdeaRsIDwIs2ywCAHD577fyjMLEPz0ff54uOA9vnagZdRXyBJb6CpU "https://captf.com/practice-ctf/?fbclid=IwAR2V2YdeaRsIDwIs2ywCAHD577fyjMLEPz0ff54uOA9vnagZdRXyBJb6CpU")
+   13. [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/books.md "https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/books.md")
 
 <h2>CTF Framework</h2>
 
@@ -306,3 +308,10 @@ This is only for keeping some resources and topics in one-place to access easily
 2. Remote code execution and Directory Traversing
 3. Android Keylogger
 4. Steganography
+5. [HackTheKeyboard](https://github.com/Sumeet-R/HackTheKeyboard?fbclid=IwAR0ZU10Pdbt9r6_8bgcWM6fnUBjFyiuntCyjIDTNxsB5E1k4lTIF3LLQFHU "https://github.com/Sumeet-R/HackTheKeyboard?fbclid=IwAR0ZU10Pdbt9r6_8bgcWM6fnUBjFyiuntCyjIDTNxsB5E1k4lTIF3LLQFHU")
+
+<h3>Exam Preparation</h3>
+
+----
+
+1. [OSCP-Prep](https://github.com/RustyShackleford221/OSCP-Prep "https://github.com/RustyShackleford221/OSCP-Prep")
