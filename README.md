@@ -88,6 +88,7 @@ This is only for keeping some resources and topics in one-place to access easily
    13. [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/books.md "https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/books.md")
    14. [Resources](https://www.vulnhub.com/resources/ "https://www.vulnhub.com/resources/")
    15. [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-secnotes/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-secnotes/")
+   16. [0xdf](https://0xdf.gitlab.io "https://0xdf.gitlab.io")
 
 <h2>CTF Framework</h2>
 
