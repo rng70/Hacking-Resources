@@ -86,6 +86,8 @@ This is only for keeping some resources and topics in one-place to access easily
    11. [Pentesting Wiki](https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?fbclid=IwAR3ejbPKCOWvCVvP_PrTegfpwC3tn35Jwyx8g2W39c2CSt93TzDtvRo5Qyw "https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?fbclid=IwAR3ejbPKCOWvCVvP_PrTegfpwC3tn35Jwyx8g2W39c2CSt93TzDtvRo5Qyw")
    12. [Practice CTF List](https://captf.com/practice-ctf/?fbclid=IwAR2V2YdeaRsIDwIs2ywCAHD577fyjMLEPz0ff54uOA9vnagZdRXyBJb6CpU "https://captf.com/practice-ctf/?fbclid=IwAR2V2YdeaRsIDwIs2ywCAHD577fyjMLEPz0ff54uOA9vnagZdRXyBJb6CpU")
    13. [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/books.md "https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/books.md")
+   14. [Resources](https://www.vulnhub.com/resources/ "https://www.vulnhub.com/resources/")
+   15. [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-secnotes/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-secnotes/")
 
 <h2>CTF Framework</h2>
 
