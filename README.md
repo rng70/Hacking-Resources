@@ -105,7 +105,7 @@ This is only for keeping some resources and topics in one-place to access easily
 
 ---
 
-1. 1.HTTP basics
+1. HTTP basics
 2. Cookie Security
 3. HTML Parsing
 4. MIME Sniffing
