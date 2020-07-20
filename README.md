@@ -60,6 +60,8 @@ This is only for keeping some resources and topics in one-place to access easily
 
 <h2>CTF</h2>
 
+***Read my [CTF Resources](./CTF Resources/README.md) notes which is a simply managed and updated copy of information from [ctf/resources](https://github.com/ctfs/resources/ "https://github.com/ctfs/resources/") repository***
+
 1. Practice:
    1. [picoCTF](https://picoctf.com "https://picoctf.com")
    2. [catb](http://www.catb.org/~esr/faqs/hacker-howto.html "http://www.catb.org/~esr/faqs/hacker-howto.html")
