@@ -1,10 +1,173 @@
-# .resources for bug-bounty practice
+# Hacking-Resources
 
 ---
 
  This repository contains some resources for ethical hackers and penetration tester 😊. This may contains some books, files, tools lists, links and so on that needs to be used for good purpose only. Do not do any illegal work using these sources.
 
 This is only for keeping some resources and topics in one-place to access easily.
+
+# Everything You Need to Know to Become a HACKER
+
+Many people are asking me this.
+
+In this section I am regrouping what ethical, black hat and grey hat hackers think are the essential skills and knowledge any pen tester should know. 
+At the top you will find all the essential tools and knowledge one must learn to become efficient and skilled at penetration testing, and at the bottom, the second part explaining what each of these things are. 
+
+## PART I: THE ESSENTIALS
+
+Some of these tutorial are simple or PoC but I strongly suggest you find books on each of these subjects before you say you understand how this works.
+
+1. Start by learning how TCP/UDP works (networking): `TCP and UDP`
+    You must know the fundamentals of HTTP and how Structured Query Language databases work : `HTTP fundamentals and SQL`
+2. Learn HTML, install a Linux OS preferably KALI Linux on a virtualization program like VirtualBox (free) or VMWARE (paid).
+    `Learn HTML`
+    `Download Kali on VirtualBox/VirtualBox Workstation Pro`
+3. Learn basic Debian commands to feel comfortable using KALI and download the KALI hand-book
+4. Learn how to be anonymous using Tor, ProxyChains, Whonix and VPN's that don't keep logs (Mullvad VPN), MAC spoofing, DNS spoofing.
+    `Tor || ProxyChains || Whonix || Mac Spoofing || DNS Spoofing`
+5. Learn to use BurpSuite, Nmap, and once you really understand SQL try SQLMap.
+    `Nmap || BurpSuite || SQLMap`
+6. Learn your way around Metasploit(=)Armitage but before that understand the different OS vulnerabilities by searching their CVE.
+    `Metasploit Framework || CVE Website`
+7. Understand WEP/WPA/WPS, watch out for KRACK which will be released soon and we might learn how to crack WPA2.
+    `WPA-WEP info || KRACK`
+
+Once you have understood these find out about the air-ng suite, aircrack-ng, aireplay-ng and others.
+Air-ng suite - How to crack Wireless Networks
+
+8. Learn how to use tamper data, sniff networks and to accomplish MITM attacks.
+    `Tamper Data || Sniff with Wireshark || MITM`
+
+9. Learn about wireless adapters and their different modes.
+    `Different modes`
+
+10. Learn how to "automate" vulnerability scanning with Nessus.
+    `Nessus Guide`
+
+11. Learn about XSS, RFI, LFI. Don't learn how to DDoS (joking).
+    `XSS-LFI-RFI Tutorial`
+
+12. Understand the ins and out of the OSI model.
+    `Layers of OSI Model`
+
+13. Learn how to create a backdoor, what shells are and the definition of a 0-day.
+    `Create a backdoor`
+
+14. Brute-forcing and Dictionary attacks.
+    `Crack passwords with Hydra`
+
+    Hash cracking:
+    	`Crack with John`
+
+15. Learn how to use google dorks (google hacking).
+    `Google Hacking Database`
+
+16. Learn what are DNS, how to do whois lookups.
+    What is a DNS ?
+
+17. Learn the most important port numbers.
+    `Port number list`
+
+18. How to spoof a phone number.
+    `Caller ID Spoofing`
+
+Research different scripting languages, check Rubber Ducky and these kind of hardware tools everybody talks about.
+Rubber Ducky
+
+19. Learn how to create java-drive-by's and browser based infection methods.
+    `Java Drive By [outdated]`
+
+20. Understand how AV's work and how to create malwares and how to crypt them.
+    `Basic AV detection methods || Create a Crypter`
+
+21. Social Engineering or how to lie. I won't discuss this here but here is a book on persuasion:
+    `Robert Cialdini Influence and Manipulation`
+
+Once you have learned all that maybe you can start learning the advanced stuff. Of course, I hope you will become a white-hat and help people with their security instead of breaching it.
+
+
+
+## PART II: GLOSSARY
+
+TCP/IP (Networking):
+Computers themselves speak to each other across a network through the use of packets. In essence the base unit of communications in the world of computer networks is the packet. Packets themselves are most commonly built using the TCP/IP stack, which is part of the computer's operating system. Each operating system has some unique values coded into its implementation of the TCP/IP stack. This is how OS fingerprinting works, by studying these unique values such as MSS and MTU among others. It has been said before that to recognize the abnormal you must first understand what is normal. This is why we need to understand what a normal TCP/IP packet looks like and how TCP/IP itself sets up communications between computers.
+
+
+
+### Why is HTML important in pen-testing?
+
+First because everything page you see on the web are displayed to some extent using HTML. It is the minimum to know the most basic language which carries the most content on internet. Also HTML injection is an attack that is similar to Cross-site Scripting (XSS). While in the XSS vulnerability the attacker can inject and execute JavaScript code, the HTML injection attack only allows the injection of certain HTML tags. When an application does not properly handle user supplied data, an attacker can supply valid HTML code, typically via a parameter value, and inject their own content into the page. This attack is typically used in conjunction with some form of social engineering, as the attack is exploiting a code-based vulnerability and a user's trust.  
+
+### Why Kali Linux and why in a Virtual Machine(VM)?
+
+First because everything page you see on the web are displayed to some extent using HTML. It is the minimum to know the most basic language which carries the most content on internet. Also HTML injection is an attack that is similar to Cross-site Scripting (XSS). While in the XSS vulnerability the attacker can inject and execute JavaScript code, the HTML injection attack only allows the injection of certain HTML tags. When an application does not properly handle user supplied data, an attacker can supply valid HTML code, typically via a parameter value, and inject their own content into the page. This attack is typically used in conjunction with some form of social engineering, as the attack is exploiting a code-based vulnerability and a user's trust.  
+
+### Why learn Debian commands?
+
+Don't need spoilers for that one, in my opinion it is important to know your way around the system you use and learn the basic terminal commands that are packed within.
+
+### Why use Tor, Proxychains, Whonix or a VPN?
+
+ During the penetration testing or vulnerability assessment or hacking, staying anonymous is one of the important factor.
+If you are a black hat, you also don't want to get caught. Without it, the internet connection will reveal your identity. ProxyChains is proxifier for linux system. It allows TCP and DNS tunneling through proxies. It supports HTTP, SOCKS4 and SOCKS5 proxy servers. It uses multiple proxies at a time, so it is called Proxy Chaining. In the tutorial you will be taught to use proxychains through the Tor network.
+Whonix is also a very good way to stay anonymous and makes use of the Tor network with its own gateway.
+MAC Spoofing allows you to change your MAC address which is your computer's ID. Your MAC address points to your PC's brand and can lead to you when deep searching.  
+
+### Why use nmap, Burp-Suite and SQLMAP?
+
+Burp-Suite is a Java based Web Penetration Testing framework. It has become an industry standard suite of tools used by information security professionals to identify vulnerabilities and verify attack vectors for web-based applications.
+
+In its simplest form, Burp-Suite can be classified as an Interception Proxy. A penetration tester configures their Internet browser to route traffic through the proxy which then acts as a sort of Man In The Middle by capturing and analyzing each request and response to and from the target web application. Individual HTTP requests can be paused, manipulated and replayed back to the web server for targeted analysis of parameter specific injection points. Injection points can be specified for manual as well as automated fuzzing attacks to discover potentially unintended application behaviors, crashes and error messages.
+
+Nmap ("Network Mapper") is a free and open source (license) utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. It was designed to rapidly scan large networks, but works fine against single hosts. Nmap runs on all major computer operating systems, and official binary packages are available for Linux, Windows, and Mac OS X. In addition to the classic command-line Nmap executable, the Nmap suite includes an advanced GUI and results viewer (Zenmap), a flexible data transfer, redirection, and debugging tool (Ncat), a utility for comparing scan results (Ndiff), and a packet generation and response analysis tool (Nping).
+
+sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
+
+### Why learn to use the Metasploit Framework?
+
+ Metasploit Framework is a open source penetration tool used for developing and executing exploit code against a remote target machine it, Metasploit framework has the world’s largest database of public, tested exploits. In simple words, Metasploit can be used to test the Vulnerability of computer systems in order to protect them and on the other hand it can also be used to break into remote systems. It is the most renown framework used to exploit systems.
+
+### Why understand WEP/WPA?
+
+ If you want to become a professional pen-tester you will have to learn about WEP/WPA encryption because the whole wireless ecosystem resolves around these encryption, understand these will give you greater power when cracking wireless networks.
+
+### Why master the air-ng suite (use for wireless hacking)?
+
+Most if not every Wi-FI cracking methods involve using aircrack-ng. Learning how to use these tools will allow you to crack most wireless network. 
+
+### Why learn how to perform MITM (man in the middle) attacks, sniff networks and tamper data?
+
+In a sense, a man-in-the-middle attack (MITM) is like eavesdropping. Data is sent from point A (computer) to point B (server/website), and an attacker can get in-between these transmissions. They then set up tools programmed to “listen in” on transmissions, intercept data that is specifically targeted as valuable, and capture the data. Sometimes this data can be modified in the process of transmission to try to trick the end user to divulge sensitive information, such as log in credentials. Once the user has fallen for the bait, the data is collected from the target, and the original data is then forwarded to the intended destination unaltered.
+
+Sniffing and snooping. They refer to listening to a conversation. For example, if you login to a website that uses no encryption, your username and password can be sniffed off the network by someone who can capture the network traffic between you and the web site.
+
+Spoofing refers to actively introducing network traffic pretending to be someone else. For example, spoofing is sending a command to computer A pretending to be computer B. It is typically used in a scenario where you generate network packets that say they originated by computer B while they really originated by computer C. Spoofing in an email context means sending an email pretending to be someone else.
+
+Tamper Data is an add-on for Firefox that lets you view and modify HTTP requests before they are sent. It shows what information the web browser is sending on your behalf, such as cookies and hidden form fields. Use of this plugin can reveal web applications that trust the client not to misbehave.
+
+### What is Brute-forcing?
+
+A brute-force attack consists of an attacker trying many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found. Alternatively, the attacker can attempt to guess the key which is
+
+typically created from the password using a key derivation function. This is known as an exhaustive key search.
+
+### Why learn XSS, LFI, RFI?
+
+Cross-site Scripting (XSS) refers to client-side code injection attack wherein an attacker can execute malicious scripts (also commonly referred to as a malicious payload) into a legitimate website or web application. XSS is amongst the most rampant of web application vulnerabilities and occurs when a web application makes use of unvalidated or unencoded user input within the output it generates.
+
+Remote File inclusion (RFI) refers to an inclusion attack wherein an attacker can cause the web application to include a remote file by exploiting a web application that dynamically includes external files or scripts. The consequences of a successful RFI attack include Information Disclosure and Cross-site Scripting (XSS) to Remote Code Execution.
+
+Remote File Inclusion (RFI) usually occurs, when an application receives the path to the file that has to be included as an input without properly sanitizing it. This would allow an external URL to be supplied to the include statement.
+
+Local File inclusion (LFI), or simply File Inclusion, refers to an inclusion attack through which an attacker can trick the web application in including files on the web server by exploiting functionality that dynamically includes local files or scripts. The consequence of a successful LFI attack includes Directory Traversal and Information Disclosure as well as Remote Code Execution.
+
+Typically, Local File Inclusion (LFI) occurs, when an application gets the path to the file that has to be included as an input without treating it as untrusted input. This would allow a local file to be supplied to the include statement.
+
+### What is a backdoor in Pen-testing?
+
+Attackers can install their own backdoor on a targeted system. Doing so allows them to come and go as they please and gives them remote access to the system. Malware installed on systems for this purpose is often called a remote access Trojan, or a RAT, and can be used to install other malware on the system or exfiltrate data. 
+
+Would love writing more. Good luck on your journey and remember white hats shine more then black.
 
 
 
