@@ -6,7 +6,62 @@
 
 This is only for keeping some resources and topics in one-place to access easily.
 
+## Sections
+
+---
+
+---
+
+---
+
+* [Everything You Need to Know to Become a HACKER](#everything-you-need-to-know-to-become-a-hacker)
+  * [PART I: THE ESSENTIALS](#part-i:-the-essentials)
+  * [PART II: GLOSSARY](#part-ii:-glossary)
+    * [Why is HTML important in pen-testing?](#why-is-html-important-in-pen-testing?) 
+    * [Why Kali Linux and why in a Virtual Machine(VM)?](#why-kali-linux-and-why-in-a-virtual-machine(vm)?)
+    * [Why learn Debian commands?](#why-learn-debian-commands?)
+    * [Why use Tor, ProxyChains, Whonix or a VPN?](#why-use-tor,-proxychains,-whonix-or-a-vpn?)
+    * [Why use nmap, Burp-Suite and SQLMAP?](#why-use-nmap,-burp-suite-and-sqlmap?)
+    * [Why learn to use the Metasploit Framework?](#why-learn-to-use-the-metasploit-framework?)
+    * [Why understand WEP/WPA?](#why-understand-wep/wpa?)
+    * [Why master the air-ng suite (use for wireless hacking)?](#why-master-the-air-ng-suite-(use-for-wireless-hacking)?)
+    * [Why learn how to perform MITM (man in the middle) attacks, sniff networks and tamper data?](#why-learn-how-to-perform-mitm-(man-in-the-middle)-attacks,-sniff-networks-and-tamper-data?)
+    * [What is Brute-forcing?](#what-is-brute-forcing?)
+    * [Why learn XSS, LFI, RFI?](#why-learn-xss,-lfi,-rfi?)
+    * [What is a backdoor in Pen-testing?](#what-is-a-backdoor-in-pen-testing?)
+* [Links of Different Topics](#links-of-different-topics)
+  * Course Links
+    * [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
+    * [MyCollection](https://drive.google.com/drive/folders/1X8gUaDVnCPBaOXpnTRHE0hn2ZKtO9GJx?usp=sharing "rng70's drive")
+    * [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/")
+  * [Tools](#tools)
+  * [Best SQL injection resources](#best-sql-injection-resources)
+  * [Capture The Flag](#ctf)
+  * [Capture The Flag Framework](#ctf-framework)
+  * [Hacker101 Syllabus](#hacker101-syllabus)
+  * [Random Collected Topics](#random-collected-topics)
+    * [Footprinting and Information Gathering](#footprinting-and-information-gathering)
+    * [PHP and SQL](#php-and-sql)
+    * [System Hacking](#system-hacking)
+    * [Malware](#malware)
+    * [Social Engineering](#social-engineering)
+    * [Denial of Service(DOS)](#denial-of-service(dos))
+    * [SQL Injection](#sql-injection)
+    * [Evading IDS, Firewalls, and Honeypots](#evading-ids,-firewalls,-and-honeypots)
+    * [Scanning Networks Web Server](#scanning-networks-web-server)
+    * [Attack](#attack)
+    * [Extra](#extra)
+    * [Exam Preparation](#exam-preparation)
+
+---
+
+---
+
+---
+
 # Everything You Need to Know to Become a HACKER
+
+---
 
 Many people are asking me this.
 
@@ -92,7 +147,7 @@ Once you have learned all that maybe you can start learning the advanced stuff. 
 TCP/IP (Networking):
 Computers themselves speak to each other across a network through the use of packets. In essence the base unit of communications in the world of computer networks is the packet. Packets themselves are most commonly built using the TCP/IP stack, which is part of the computer's operating system. Each operating system has some unique values coded into its implementation of the TCP/IP stack. This is how OS fingerprinting works, by studying these unique values such as MSS and MTU among others. It has been said before that to recognize the abnormal you must first understand what is normal. This is why we need to understand what a normal TCP/IP packet looks like and how TCP/IP itself sets up communications between computers.
 
-
+Here some answer of some common questions related to `Ethical Hacking` is listed:
 
 ### Why is HTML important in pen-testing?
 
@@ -106,7 +161,7 @@ First because everything page you see on the web are displayed to some extent us
 
 Don't need spoilers for that one, in my opinion it is important to know your way around the system you use and learn the basic terminal commands that are packed within.
 
-### Why use Tor, Proxychains, Whonix or a VPN?
+### Why use Tor, ProxyChains, Whonix or a VPN?
 
  During the penetration testing or vulnerability assessment or hacking, staying anonymous is one of the important factor.
 If you are a black hat, you also don't want to get caught. Without it, the internet connection will reveal your identity. ProxyChains is proxifier for linux system. It allows TCP and DNS tunneling through proxies. It supports HTTP, SOCKS4 and SOCKS5 proxy servers. It uses multiple proxies at a time, so it is called Proxy Chaining. In the tutorial you will be taught to use proxychains through the Tor network.
@@ -169,15 +224,7 @@ Attackers can install their own backdoor on a targeted system. Doing so allows t
 
 Would love writing more. Good luck on your journey and remember white hats shine more then black.
 
-
-
 <h1>Links of Different Topics</h1>
-
-<h2>Course Links</h2>
-
-1. [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
-2. [MyCollection](https://drive.google.com/drive/folders/1X8gUaDVnCPBaOXpnTRHE0hn2ZKtO9GJx?usp=sharing "rng70's drive")
-3. [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/")
 
 <h2>Tools</h2>
 
@@ -198,8 +245,6 @@ Would love writing more. Good luck on your journey and remember white hats shine
 8. [zardus/ctf-tools](https://github.com/zardus/ctf-tools "https://github.com/zardus/ctf-tools")
 
 9. [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite "https://github.com/DidierStevens/DidierStevensSuite")
-
-   
 
 <h2>Best SQL injection resources</h2>
 
@@ -386,14 +431,12 @@ Would love writing more. Good luck on your journey and remember white hats shine
 4. File extension viruses
 5. Backdoors virus
 
-<h3>Social Engineering </h3>
+<h3>Social Engineering</h3>
 
 ---
 
 1. Phishing
 2. CSRF and XSS
-
-
 
 <h3>Denial of Service(DOS)</h3>
 
@@ -449,7 +492,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 
 
 
-<h3>Scanning Networks web server</h3>
+<h3>Scanning Networks Web Server</h3>
 
 ---
 
