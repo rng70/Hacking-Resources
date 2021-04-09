@@ -15,8 +15,8 @@ This is only for keeping some resources and topics in one-place to access easily
 ---
 
 * [Everything You Need to Know to Become a HACKER](#everything-you-need-to-know-to-become-a-hacker)
-  * [PART I: THE ESSENTIALS](#part-i:-the-essentials)
-  * [PART II: GLOSSARY](#part-ii:-glossary)
+  * [PART I: THE ESSENTIALS](#part-i-the-essentials)
+  * [PART II: GLOSSARY](#part-ii-glossary)
     * [Why is HTML important in pen-testing?](#why-is-html-important-in-pen-testing?) 
     * [Why Kali Linux and why in a Virtual Machine(VM)?](#why-kali-linux-and-why-in-a-virtual-machine(vm)?)
     * [Why learn Debian commands?](#why-learn-debian-commands?)
