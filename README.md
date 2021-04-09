@@ -373,7 +373,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 
 <h2></br>Random Collected Topics</h2>
 
-<h3></br>Footprinting and Information Gathering</h3>
+<h3>Footprinting and Information Gathering</h3>
 
 ---
 
@@ -389,7 +389,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 10. Website Cookies history
 11. Recover any deleted files. [ PC or Mobile]
 
-<h3></br>PHP and SQL</h3>
+<h3>PHP and SQL</h3>
 
 ---
 
@@ -404,8 +404,6 @@ Would love writing more. Good luck on your journey and remember white hats shine
 7. Compromising Session
    1. using Sniffing
    2. predicting Session Token
-
-
 
 <h3>System Hacking</h3>
 
@@ -451,8 +449,6 @@ Would love writing more. Good luck on your journey and remember white hats shine
 3. WAF Bypass
 4. Error base
 
-
-
 <h3>Evading IDS, Firewalls, and Honeypots</h3>
 
 ---
@@ -489,8 +485,6 @@ Would love writing more. Good luck on your journey and remember white hats shine
 2. X-path
 
 3. Cryptography
-
-
 
 <h3>Scanning Networks Web Server</h3>
 
