@@ -34,7 +34,23 @@ This is only for keeping some resources and topics in one-place to access easily
     * [Free Courses](http://bit.ly/2UkY5Za "Resources Point")
     * [MyCollection](https://drive.google.com/drive/folders/1X8gUaDVnCPBaOXpnTRHE0hn2ZKtO9GJx?usp=sharing "rng70's drive")
     * [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-access/")
-  * [Tools](#tools)
+  * Tools
+    * [Regon-ng](https://github.com/jhaddix/domain "https://github.com/jhaddix/domain")
+    * [Intrigue](https://github.com/intrigueio/intrigue-core "https://github.com/intrigueio/intrigue-core")
+
+    * [SecLists](https://github.com/danielmiessler/SecLists "https://github.com/danielmiessler/SecLists")
+
+    * [Autorize](https://github.com/Quitten/Autorize#autorize "https://github.com/Quitten/Autorize#autorize")
+
+    * [ForceSSL](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL "https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL")
+
+    * [binwalk](https://github.com/ReFirmLabs/binwalk "https://github.com/ReFirmLabs/binwalk")
+
+    * [stegsolve (hidden text discover tool)](http://www.caesum.com/handbook/Stegsolve.jar "http://www.caesum.com/handbook/Stegsolve.jar")
+
+    * [zardus/ctf-tools](https://github.com/zardus/ctf-tools "https://github.com/zardus/ctf-tools")
+
+    * [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite "https://github.com/DidierStevens/DidierStevensSuite")
   * [Best SQL injection resources](#best-sql-injection-resources)
   * [Capture The Flag](#ctf)
   * [Capture The Flag Framework](#ctf-framework)
@@ -78,16 +94,16 @@ Some of these tutorial are simple or PoC but I strongly suggest you find books o
     `Learn HTML`
     `Download Kali on VirtualBox/VirtualBox Workstation Pro`
 3. Learn basic Debian commands to feel comfortable using KALI and download the KALI hand-book
-4. Learn how to be anonymous using Tor, ProxyChains, Whonix and VPN's that don't keep logs (Mullvad VPN), MAC spoofing, DNS spoofing.
+4. Learn how to be anonymous using `Tor, ProxyChains, Whonix and VPN's` that don't keep logs (``Mullvad VPN`), MAC spoofing, DNS spoofing.
     `Tor || ProxyChains || Whonix || Mac Spoofing || DNS Spoofing`
-5. Learn to use BurpSuite, Nmap, and once you really understand SQL try SQLMap.
+5. Learn to use `Burp Suite`, `Nmap`, and once you really understand SQL try `SQLMap`.
     `Nmap || BurpSuite || SQLMap`
 6. Learn your way around Metasploit(=)Armitage but before that understand the different OS vulnerabilities by searching their CVE.
     `Metasploit Framework || CVE Website`
 7. Understand WEP/WPA/WPS, watch out for KRACK which will be released soon and we might learn how to crack WPA2.
     `WPA-WEP info || KRACK`
 
-Once you have understood these find out about the air-ng suite, aircrack-ng, aireplay-ng and others.
+Once you have understood these find out about the `air-ng suite, aircrack-ng, aireplay-ng` and others.
 Air-ng suite - How to crack Wireless Networks
 
 8. Learn how to use tamper data, sniff networks and to accomplish MITM attacks.
@@ -117,7 +133,7 @@ Air-ng suite - How to crack Wireless Networks
 15. Learn how to use google dorks (google hacking).
     `Google Hacking Database`
 
-16. Learn what are DNS, how to do whois lookups.
+16. Learn what are DNS, how to do `whois` lookups.
     What is a DNS ?
 
 17. Learn the most important port numbers.
@@ -129,7 +145,7 @@ Air-ng suite - How to crack Wireless Networks
 Research different scripting languages, check Rubber Ducky and these kind of hardware tools everybody talks about.
 Rubber Ducky
 
-19. Learn how to create java-drive-by's and browser based infection methods.
+19. Learn how to create java-drive-by and browser based infection methods.
     `Java Drive By [outdated]`
 
 20. Understand how AV's work and how to create malwares and how to crypt them.
@@ -149,26 +165,26 @@ Computers themselves speak to each other across a network through the use of pac
 
 Here some answer of some common questions related to `Ethical Hacking` is listed:
 
-### Why is HTML important in pen-testing?
+### `Why is HTML important in pen-testing?`
 
 First because everything page you see on the web are displayed to some extent using HTML. It is the minimum to know the most basic language which carries the most content on internet. Also HTML injection is an attack that is similar to Cross-site Scripting (XSS). While in the XSS vulnerability the attacker can inject and execute JavaScript code, the HTML injection attack only allows the injection of certain HTML tags. When an application does not properly handle user supplied data, an attacker can supply valid HTML code, typically via a parameter value, and inject their own content into the page. This attack is typically used in conjunction with some form of social engineering, as the attack is exploiting a code-based vulnerability and a user's trust.  
 
-### Why Kali Linux and why in a Virtual Machine(VM)?
+### `Why Kali Linux and why in a Virtual Machine(VM)?`
 
 First because everything page you see on the web are displayed to some extent using HTML. It is the minimum to know the most basic language which carries the most content on internet. Also HTML injection is an attack that is similar to Cross-site Scripting (XSS). While in the XSS vulnerability the attacker can inject and execute JavaScript code, the HTML injection attack only allows the injection of certain HTML tags. When an application does not properly handle user supplied data, an attacker can supply valid HTML code, typically via a parameter value, and inject their own content into the page. This attack is typically used in conjunction with some form of social engineering, as the attack is exploiting a code-based vulnerability and a user's trust.  
 
-### Why learn Debian commands?
+### `Why learn Debian commands?`
 
 Don't need spoilers for that one, in my opinion it is important to know your way around the system you use and learn the basic terminal commands that are packed within.
 
-### Why use Tor, ProxyChains, Whonix or a VPN?
+### `Why use Tor, ProxyChains, Whonix or a VPN?`
 
  During the penetration testing or vulnerability assessment or hacking, staying anonymous is one of the important factor.
-If you are a black hat, you also don't want to get caught. Without it, the internet connection will reveal your identity. ProxyChains is proxifier for linux system. It allows TCP and DNS tunneling through proxies. It supports HTTP, SOCKS4 and SOCKS5 proxy servers. It uses multiple proxies at a time, so it is called Proxy Chaining. In the tutorial you will be taught to use proxychains through the Tor network.
+If you are a black hat, you also don't want to get caught. Without it, the internet connection will reveal your identity. ProxyChains is Proxifier for Linux system. It allows TCP and DNS tunneling through proxies. It supports HTTP, SOCKS4 and SOCKS5 proxy servers. It uses multiple proxies at a time, so it is called Proxy Chaining. In the tutorial you will be taught to use ProxyChains through the Tor network.
 Whonix is also a very good way to stay anonymous and makes use of the Tor network with its own gateway.
 MAC Spoofing allows you to change your MAC address which is your computer's ID. Your MAC address points to your PC's brand and can lead to you when deep searching.  
 
-### Why use nmap, Burp-Suite and SQLMAP?
+### `Why use nmap, Burp-Suite and SQLMAP?`
 
 Burp-Suite is a Java based Web Penetration Testing framework. It has become an industry standard suite of tools used by information security professionals to identify vulnerabilities and verify attack vectors for web-based applications.
 
@@ -178,19 +194,19 @@ Nmap ("Network Mapper") is a free and open source (license) utility for network 
 
 sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 
-### Why learn to use the Metasploit Framework?
+### `Why learn to use the Metasploit Framework?`
 
  Metasploit Framework is a open source penetration tool used for developing and executing exploit code against a remote target machine it, Metasploit framework has the world’s largest database of public, tested exploits. In simple words, Metasploit can be used to test the Vulnerability of computer systems in order to protect them and on the other hand it can also be used to break into remote systems. It is the most renown framework used to exploit systems.
 
-### Why understand WEP/WPA?
+### `Why understand WEP/WPA?`
 
  If you want to become a professional pen-tester you will have to learn about WEP/WPA encryption because the whole wireless ecosystem resolves around these encryption, understand these will give you greater power when cracking wireless networks.
 
-### Why master the air-ng suite (use for wireless hacking)?
+### `Why master the air-ng suite (use for wireless hacking)?`
 
 Most if not every Wi-FI cracking methods involve using aircrack-ng. Learning how to use these tools will allow you to crack most wireless network. 
 
-### Why learn how to perform MITM (man in the middle) attacks, sniff networks and tamper data?
+### `Why learn how to perform MITM (man in the middle) attacks, sniff networks and tamper data?`
 
 In a sense, a man-in-the-middle attack (MITM) is like eavesdropping. Data is sent from point A (computer) to point B (server/website), and an attacker can get in-between these transmissions. They then set up tools programmed to “listen in” on transmissions, intercept data that is specifically targeted as valuable, and capture the data. Sometimes this data can be modified in the process of transmission to try to trick the end user to divulge sensitive information, such as log in credentials. Once the user has fallen for the bait, the data is collected from the target, and the original data is then forwarded to the intended destination unaltered.
 
@@ -200,15 +216,15 @@ Spoofing refers to actively introducing network traffic pretending to be someone
 
 Tamper Data is an add-on for Firefox that lets you view and modify HTTP requests before they are sent. It shows what information the web browser is sending on your behalf, such as cookies and hidden form fields. Use of this plugin can reveal web applications that trust the client not to misbehave.
 
-### What is Brute-forcing?
+### `What is Brute-forcing?`
 
 A brute-force attack consists of an attacker trying many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found. Alternatively, the attacker can attempt to guess the key which is
 
 typically created from the password using a key derivation function. This is known as an exhaustive key search.
 
-### Why learn XSS, LFI, RFI?
+### `Why learn XSS, LFI, RFI?`
 
-Cross-site Scripting (XSS) refers to client-side code injection attack wherein an attacker can execute malicious scripts (also commonly referred to as a malicious payload) into a legitimate website or web application. XSS is amongst the most rampant of web application vulnerabilities and occurs when a web application makes use of unvalidated or unencoded user input within the output it generates.
+Cross-site Scripting (XSS) refers to client-side code injection attack wherein an attacker can execute malicious scripts (also commonly referred to as a malicious payload) into a legitimate website or web application. XSS is amongst the most rampant of web application vulnerabilities and occurs when a web application makes use of invalidated or unencoded user input within the output it generates.
 
 Remote File inclusion (RFI) refers to an inclusion attack wherein an attacker can cause the web application to include a remote file by exploiting a web application that dynamically includes external files or scripts. The consequences of a successful RFI attack include Information Disclosure and Cross-site Scripting (XSS) to Remote Code Execution.
 
@@ -218,33 +234,13 @@ Local File inclusion (LFI), or simply File Inclusion, refers to an inclusion att
 
 Typically, Local File Inclusion (LFI) occurs, when an application gets the path to the file that has to be included as an input without treating it as untrusted input. This would allow a local file to be supplied to the include statement.
 
-### What is a backdoor in Pen-testing?
+### `What is a backdoor in Pen-testing?`
 
 Attackers can install their own backdoor on a targeted system. Doing so allows them to come and go as they please and gives them remote access to the system. Malware installed on systems for this purpose is often called a remote access Trojan, or a RAT, and can be used to install other malware on the system or exfiltrate data. 
 
 Would love writing more. Good luck on your journey and remember white hats shine more then black.
 
 <h1>Links of Different Topics</h1>
-
-<h2>Tools</h2>
-
-1. [Regon-ng](https://github.com/jhaddix/domain "https://github.com/jhaddix/domain")
-
-2. [Intrigue](https://github.com/intrigueio/intrigue-core "https://github.com/intrigueio/intrigue-core")
-
-3. [SecLists](https://github.com/danielmiessler/SecLists "https://github.com/danielmiessler/SecLists")
-
-4. [Autorize](https://github.com/Quitten/Autorize#autorize "https://github.com/Quitten/Autorize#autorize")
-
-5. [ForceSSL](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL "https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL")
-
-6. [binwalk](https://github.com/ReFirmLabs/binwalk "https://github.com/ReFirmLabs/binwalk")
-
-7. [stegsolve (hidden text discover tool)](http://www.caesum.com/handbook/Stegsolve.jar "http://www.caesum.com/handbook/Stegsolve.jar")
-
-8. [zardus/ctf-tools](https://github.com/zardus/ctf-tools "https://github.com/zardus/ctf-tools")
-
-9. [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite "https://github.com/DidierStevens/DidierStevensSuite")
 
 <h2>Best SQL injection resources</h2>
 
@@ -378,7 +374,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 ---
 
 1. From Social Media
-2. Web server “whois”
+2. Web server `whois`
 3.  Subdomain
 4. Reserved IP Location
 5. Which platform used for developing
