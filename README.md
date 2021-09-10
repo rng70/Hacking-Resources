@@ -14,6 +14,7 @@ This is only for keeping some resources and topics in one-place to access easily
 
 ---
 
+* [Book List](#book-list)
 * [Everything You Need to Know to Become a HACKER](#everything-you-need-to-know-to-become-a-hacker)
   * [PART I: THE ESSENTIALS](#part-i-the-essentials)
   * [PART II: GLOSSARY](#part-ii-glossary)
@@ -669,3 +670,8 @@ Would love writing more. Good luck on your journey and remember white hats shine
 ----
 
 1. [OSCP-Prep](https://github.com/RustyShackleford221/OSCP-Prep "https://github.com/RustyShackleford221/OSCP-Prep")
+
+
+
+# Book List
+
