@@ -675,3 +675,12 @@ Would love writing more. Good luck on your journey and remember white hats shine
 
 # Book List
 
+***[Alphabetically Ordered]()***
+
+1.  Burp Suite
+    1.  [Burp Suite Cookbook by Sunny Wear](./Burp%20Suite/Wear_Sunny_Burp_Suite_Cookbook.pdf)
+2.  Cryptography
+    1.  [Algorithmic Cryptanalysis by Antoine Joux](./Cryptograpy/Algorithmic%20Cryptanalysis.pdf)
+    2.  [Handbook of Applied Cryptography by Menezes, Oorschot & Vanstone](Handbook%20of%20applied%20cryptography.pdf)
+3.  
+
