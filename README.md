@@ -698,4 +698,6 @@ Would love writing more. Good luck on your journey and remember white hats shine
     4.  [Nmap in the Enterprise: Your Guide to Network Scanning by Angela Orebaugh, Becky Pinkard](./Nmap%20Books/Nmap%20in%20the%20Enterprise%20Your%20Guide%20to%20Network%20Scanning.pdf)
     5.  [Nmap7 - From Beginner to Pro by Nicholas Brown](./Nmap%20Books/Nmap7%20-%20From%20Beginner%20to%20Pro.epub)
     6.  [Quick Start Guide to Penetration Testing With NMAP, OpenVAS and Metasploit](./Nmap%20Books/Quick%20Start%20Guide%20to%20Penetration%20Testing%20With%20NMAP,%20OpenVAS%20and%20Metasploit.epub)
+5.  Termux
+    1.  [Termux Tutorials by Techncyber](./Termux/Termux%20Tutorials%20by%20Techncyber.pdf)
 
