@@ -690,7 +690,8 @@ Would love writing more. Good luck on your journey and remember white hats shine
     5. [Networking All in One for Dummies by Doug Lowe](./Networking/Networking%20All%20in%20One%20for%20Dummies.pdf)
     6. [Networking Fundamentals by Gordon Davies](./Networking/Networking%20Fundamentals.pdf)
     7. [Seven Deadliest Network Attacks by Prowell, Borkin & Kraus](./Networking/Seven%20Deadliest%20%Network%20Attacks.pdf)
-    8. [The Only Ip Book You Will Ever Need Unraveling The Mysteries Of Ipv4 Ipv6 by Diaz](./Networking/The%20Only%20Ip%20Book%20You%20Will%20Ever%20Need%20Unraveling%20The%20Mysteries%20Of%20Ipv4%20Ipv6.pdf)
+    8. [SSH The Secure Shell - The Definitive Guide by Silverman & Barrett](SSH%20The%20Secure%20Shell%20-%20The%20Definitive%20Guide.pdf)
+    9. [The Only Ip Book You Will Ever Need Unraveling The Mysteries Of Ipv4 Ipv6 by Diaz](./Networking/The%20Only%20Ip%20Book%20You%20Will%20Ever%20Need%20Unraveling%20The%20Mysteries%20Of%20Ipv4%20Ipv6.pdf)
 4.  Nmap
     1.  [Mastering Nmap Scripting Engine by Paulino Calderon Pale](./Nmap%20Books/Mastering%20Nmap%20Scripting%20Engine.pdf)
     2.  [Nmap - Network Exploration and Security Auditing Cookbook by Paulino Calderon](./Nmap%20Books/Nmap%20-%20Network%20Exploration%20and%20Security%20Auditing%20Cookbook.epub)
@@ -700,4 +701,3 @@ Would love writing more. Good luck on your journey and remember white hats shine
     6.  [Quick Start Guide to Penetration Testing With NMAP, OpenVAS and Metasploit](./Nmap%20Books/Quick%20Start%20Guide%20to%20Penetration%20Testing%20With%20NMAP,%20OpenVAS%20and%20Metasploit.epub)
 5.  Termux
     1.  [Termux Tutorials by Techncyber](./Termux/Termux%20Tutorials%20by%20Techncyber.pdf)
-
