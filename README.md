@@ -678,9 +678,16 @@ Would love writing more. Good luck on your journey and remember white hats shine
 ***[Alphabetically Ordered]()***
 
 1.  Burp Suite
-    1.  [Burp Suite Cookbook by Sunny Wear](./Burp%20Suite/Wear_Sunny_Burp_Suite_Cookbook.pdf)
+    1. [Burp Suite Cookbook by Sunny Wear](./Burp%20Suite/Wear_Sunny_Burp_Suite_Cookbook.pdf)
 2.  Cryptography
-    1.  [Algorithmic Cryptanalysis by Antoine Joux](./Cryptograpy/Algorithmic%20Cryptanalysis.pdf)
-    2.  [Handbook of Applied Cryptography by Menezes, Oorschot & Vanstone](Handbook%20of%20applied%20cryptography.pdf)
-3.  
+    1. [Algorithmic Cryptanalysis by Antoine Joux](./Cryptograpy/Algorithmic%20Cryptanalysis.pdf)
+    2. [Handbook of Applied Cryptography by Menezes, Oorschot & Vanstone](Handbook%20of%20applied%20cryptography.pdf)
+3.  Networking
+    1. [Computer Networking Problems and Solutions by Russ White and Ethan Banks](./Networking/Computer%20Networking%20Problems.pdf)
+    2. [Guide to Network Programming by Beej](./Networking/Guide%20to%20Network%20Programming.pdf)
+    3. [Network Scanning Cookbook by Sairam Jetty](./Networking/Network%20Scanning%20Cookbook .pdf)
+    4. [Computer Networks by Tanenbaum & Wetherall](./Netwoking/Computer%20Networks.pdf)
+    5. [Networking Fundamentals by Gordon Davies](./Networking/Networking%20Fundamentals.pdf)
+    6. [Networking All in One for Dummies by Doug Lowe](./Networking/Networking%20All%20in%20One%20for%20Dummies.pdf)
+    7. [The Only Ip Book You Will Ever Need Unraveling The Mysteries Of Ipv4 Ipv6 by Diaz](./Networking/The%20Only%20Ip%20Book%20You%20Will%20Ever%20Need%20Unraveling%20The%20Mysteries%20Of%20Ipv4%20Ipv6.pdf)
 
