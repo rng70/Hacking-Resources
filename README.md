@@ -69,99 +69,99 @@ This is only for keeping some resources and topics in one-place to access easily
     * [Attack](#attack)
     * [Extra](#extra)
     * [Exam Preparation](#exam-preparation)
-
-🔰 Some topics for self Learning 🔰
-
-​	[+] Sql Injection Attack
-​			[+] Hibernate Query Language Injection
-​			[+] Direct OS Code Injection
-​			[+] XML Entity Injection
-​			[+] Broken Authentication and Session Management
-​			[+] Cross-Site Scripting (XSS)
-​			[+] Insecure Direct Object References
-​			[+] Security Misconfiguration
-​			[+] Sensitive Data Exposure
-​			[+] Missing Function Level Access Control
-​			[+] Cross-Site Request Forgery (CSRF)
-​			[+] Using Components with Known Vulnerabilities
-​			[+] Unvalidated Redirects and Forwards
-​			[+] Cross Site Scripting Attacks
-​			[+] Click Jacking Attacks
-​			[+] DNS Cache Poisoning
-​			[+] Symlinking – An Insider Attack
-​			[+] Cross Site Request Forgery Attacks
-​			[+] Remote Code Execution Attacks
-​			[+] Remote File inclusion
-​			[+] Local file inclusion
-​			[+] EverCookie
-​			[+] Denial oF Service Attack
-​			[+] Cookie Eviction
-​			[+] PHPwn
-​			[+] NAT Pinning
-​			[+] XSHM
-​			[+] MitM DNS Rebinding SSL/TLS Wildcards and XSS
-​			[+] Quick Proxy Detection
-​			[+] Improving HTTPS Side Channel Attacks
-​			[+] Side Channel Attacks in SSL
-​			[+] Turning XSS into Clickjacking
-​			[+] Bypassing CSRF protections with Click Jacking and
-​			[+] HTTP Parameter Pollution
-​			[+] URL Hijacking
-​			[+] Stroke Jacking
-​			[+] Fooling B64_Encode(Payload) on WAFs And Filters
-​			[+] MySQL Stacked Queries with SQL Injection.
-​			[+] Posting Raw XML cross-domain
-​			[+] Generic Cross-Browser Cross-Domain theft
-​			[+] Attacking HTTPS with Cache Injection
-​			[+] Tap Jacking
-​			[+] XSS - Track
-​			[+] Next Generation Click Jacking
-​			[+] XSSing Client-Side Dynamic HTML.
-​			[+] Stroke triggered XSS and Stroke Jacking
-​			[+] Lost iN Translation
-​			[+] Persistent Cross Interface Attacks
-​			[+] Chronofeit Phishing
-​			[+] SQLi Filter Evasion Cheat Sheet (MySQL)
-​			[+] Tabnabbing
-​			[+] UI Redressing
-​			[+] Cookie Poisoning
-​			[+] SSRF
-​			[+] Bruteforce of PHPSESSID
-​			[+] Blended Threats and JavaScript
-​			[+] Cross-Site Port Attacks
-​			[+] CAPTCHA Re-Riding Attack
-
-
+    
+<h1><summary>🔰 Some topics for self Learning 🔰</summary></h1>	
+<details>
+  <summary>Topics</summary>
+  
+  * Attacking HTTPS with Cache Injection
+  * Bruteforce of PHPSESSID
+​  * Blended Threats and JavaScript
+  * Broken Authentication and Session Management
+  * CAPTCHA Re-Riding Attack
+  * Chronofeit Phishing
+  * Click Jacking Attacks
+  * Cookie Eviction
+  * Cookie Poisoning
+  * Cross-Site Port Attacks
+  * Cross-Site Request Forgery (CSRF)
+  * Cross-Site Scripting (XSS)
+  * Cross Site Scripting Attacks
+  * Bypassing CSRF protections with Click Jacking and
+  * Denial oF Service Attack
+  * Direct OS Code Injection
+  * DNS Cache Poisoning
+  * EverCookie
+  * Fooling B64_Encode(Payload) on WAFs And Filters
+  * Generic Cross-Browser Cross-Domain theft
+  * Hibernate Query Language Injection
+  * HTTP Parameter Pollution
+  * Improving HTTPS Side Channel Attacks
+  * Insecure Direct Object References
+  * Local file inclusion
+  * Lost iN Translation
+  * MitM DNS Rebinding SSL/TLS Wildcards and XSS
+  * Missing Function Level Access Control
+  * MySQL Stacked Queries with SQL Injection.
+  * NAT Pinning
+  * Next Generation Click Jacking
+  * Persistent Cross Interface Attacks
+  * PHPwn
+  * Posting Raw XML cross-domain
+  * Quick Proxy Detection
+  * Remote Code Execution Attacks
+  * Remote File inclusion
+  * Security Misconfiguration
+  * Sensitive Data Exposure
+  * Side Channel Attacks in SSL
+  * Sql Injection Attack
+  * SQLi Filter Evasion Cheat Sheet (MySQL)
+  * SSRF
+  * Stroke Jacking
+  * Stroke triggered XSS and Stroke Jacking
+  * Symlinking – An Insider Attack
+  * Tap Jacking
+  * Tabnabbing
+  * Turning XSS into Clickjacking
+  * UI Redressing
+  * Unvalidated Redirects and Forwards
+  * URL Hijacking
+  * Using Components with Known Vulnerabilities
+  * XML Entity Injection
+  * XSHM
+  * XSS - Track
+  * XSSing Client-Side Dynamic HTML
+</details>
 
 🦚 From Beginner to Expert Tryhackme Walkthrough 🦚
 
 
-🦚 # Level 1 - Intro
+	🦚 # Level 1 - Intro
 
-- [ ] OpenVPN https://tryhackme.com/room/openvpn
-- [ ] Welcome https://tryhackme.com/jr/welcome
-- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
-- [ ] Learn Linux https://tryhackme.com/room/zthlinux
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
-    Introductory CTFs to get your feet wet
-- [ ] Google Dorking https://tryhackme.com/room/googledorking
-- [ ] OHsint https://tryhackme.com/room/ohsint
-- [ ] Shodan.io https://tryhackme.com/room/shodan
+		- [ ] OpenVPN https://tryhackme.com/room/openvpn
+		- [ ] Welcome https://tryhackme.com/jr/welcome
+		- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
+		- [ ] Learn Linux https://tryhackme.com/room/zthlinux
+		- [ ] Crash Course Pentesting https://tryhackme.com/room/	ccpentesting
+		- [ ] Introductory CTFs to get your feet wet
+		- [ ] Google Dorking https://tryhackme.com/room/googledorking
+		- [ ] OHsint https://tryhackme.com/room/ohsint
+		- [ ] Shodan.io https://tryhackme.com/room/shodan
 
 🦚 # Level 2 - Tooling
 
-- [ ] Tmux https://tryhackme.com/room/rptmux
-- [ ] Nmap https://tryhackme.com/room/rpnmap
-- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
-- [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
-- [ ] Metasploit https://tryhackme.com/room/rpmetasploit
-- [ ] Hydra https://tryhackme.com/room/hydra
-- [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
-- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
+		- [ ] Tmux https://tryhackme.com/room/rptmux
+		- [ ] Nmap https://tryhackme.com/room/rpnmap
+		- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
+		- [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
+		- [ ] Metasploit https://tryhackme.com/room/rpmetasploit
+		- [ ] Hydra https://tryhackme.com/room/hydra
+		- [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
+		- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
     More introductory CTFs
-- [ ] Vulnversity - https://tryhackme.com/room/vulnversity
-- [ ] Blue - https://tryhackme.com/room/blue
-- [ ] Simple CTF https://tryhackme.com/room/easyctf
+		- [ ] Vulnversity - https://tryhackme.com/room/vulnversity
+		- [ ] Blue - https://tryhackme.com/room/blue
+		- [ ] Simple CTF https://tryhackme.com/room/easyctf
 - [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
 
 🦚 # Level 3 - Crypto & Hashes with CTF practice
@@ -317,7 +317,7 @@ Once you have learned all that maybe you can start learning the advanced stuff. 
 TCP/IP (Networking):
 Computers themselves speak to each other across a network through the use of packets. In essence the base unit of communications in the world of computer networks is the packet. Packets themselves are most commonly built using the TCP/IP stack, which is part of the computer's operating system. Each operating system has some unique values coded into its implementation of the TCP/IP stack. This is how OS fingerprinting works, by studying these unique values such as MSS and MTU among others. It has been said before that to recognize the abnormal you must first understand what is normal. This is why we need to understand what a normal TCP/IP packet looks like and how TCP/IP itself sets up communications between computers.
 
-Here some answer of some common questions related to `Ethical Hacking` is listed:
+Here some answer of some common questions related to `Ethical Hacking` is listed:
 
 ### `Why is HTML important in pen-testing?`
 
