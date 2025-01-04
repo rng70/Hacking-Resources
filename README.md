@@ -8,7 +8,6 @@ This is only for keeping some resources and topics in one-place to access easily
 
 ## Sections
 
-
 * [Book List](#book-list)
 * [Everything You Need to Know to Become a HACKER](#everything-you-need-to-know-to-become-a-hacker)
   * [PART I: THE ESSENTIALS](#part-i-the-essentials)
@@ -297,22 +296,22 @@ Computers themselves speak to each other across a network through the use of pac
 
 Here some answer of some common questions related to `Ethical Hacking` is listed:
 
-### `Why is HTML important in pen-testing?`
+### Why is HTML important in pen-testing?
 First because everything page you see on the web are displayed to some extent using HTML. It is the minimum to know the most basic language which carries the most content on internet. Also HTML injection is an attack that is similar to Cross-site Scripting (XSS). While in the XSS vulnerability the attacker can inject and execute JavaScript code, the HTML injection attack only allows the injection of certain HTML tags. When an application does not properly handle user supplied data, an attacker can supply valid HTML code, typically via a parameter value, and inject their own content into the page. This attack is typically used in conjunction with some form of social engineering, as the attack is exploiting a code-based vulnerability and a user's trust.  
 
-### `Why Kali Linux and why in a Virtual Machine(VM)?`
+### Why Kali Linux and why in a Virtual Machine(VM)?
 First because everything page you see on the web are displayed to some extent using HTML. It is the minimum to know the most basic language which carries the most content on internet. Also HTML injection is an attack that is similar to Cross-site Scripting (XSS). While in the XSS vulnerability the attacker can inject and execute JavaScript code, the HTML injection attack only allows the injection of certain HTML tags. When an application does not properly handle user supplied data, an attacker can supply valid HTML code, typically via a parameter value, and inject their own content into the page. This attack is typically used in conjunction with some form of social engineering, as the attack is exploiting a code-based vulnerability and a user's trust.  
 
-### `Why learn Debian commands?`
+### Why learn Debian commands?
 Don't need spoilers for that one, in my opinion it is important to know your way around the system you use and learn the basic terminal commands that are packed within.
 
-### `Why use Tor, ProxyChains, Whonix or a VPN?`
+### Why use Tor, ProxyChains, Whonix or a VPN?
 During the penetration testing or vulnerability assessment or hacking, staying anonymous is one of the important factor.
 If you are a black hat, you also don't want to get caught. Without it, the internet connection will reveal your identity. ProxyChains is Proxifier for Linux system. It allows TCP and DNS tunneling through proxies. It supports HTTP, SOCKS4 and SOCKS5 proxy servers. It uses multiple proxies at a time, so it is called Proxy Chaining. In the tutorial you will be taught to use ProxyChains through the Tor network.
 Whonix is also a very good way to stay anonymous and makes use of the Tor network with its own gateway.
 MAC Spoofing allows you to change your MAC address which is your computer's ID. Your MAC address points to your PC's brand and can lead to you when deep searching.  
 
-### `Why use nmap, Burp-Suite and SQLMAP?`
+### Why use nmap, Burp-Suite and SQLMAP?
 Burp-Suite is a Java based Web Penetration Testing framework. It has become an industry standard suite of tools used by information security professionals to identify vulnerabilities and verify attack vectors for web-based applications.
 
 In its simplest form, Burp-Suite can be classified as an Interception Proxy. A penetration tester configures their Internet browser to route traffic through the proxy which then acts as a sort of Man In The Middle by capturing and analyzing each request and response to and from the target web application. Individual HTTP requests can be paused, manipulated and replayed back to the web server for targeted analysis of parameter specific injection points. Injection points can be specified for manual as well as automated fuzzing attacks to discover potentially unintended application behaviors, crashes and error messages.
@@ -321,16 +320,16 @@ Nmap ("Network Mapper") is a free and open source (license) utility for network 
 
 sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 
-### `Why learn to use the Metasploit Framework?`
+### Why learn to use the Metasploit Framework?
 Metasploit Framework is a open source penetration tool used for developing and executing exploit code against a remote target machine it, Metasploit framework has the world’s largest database of public, tested exploits. In simple words, Metasploit can be used to test the Vulnerability of computer systems in order to protect them and on the other hand it can also be used to break into remote systems. It is the most renown framework used to exploit systems.
 
-### `Why understand WEP/WPA?`
+### Why understand WEP/WPA?
 If you want to become a professional pen-tester you will have to learn about WEP/WPA encryption because the whole wireless ecosystem resolves around these encryption, understand these will give you greater power when cracking wireless networks.
 
-### `Why master the air-ng suite (use for wireless hacking)?`
+### Why master the air-ng suite (use for wireless hacking)?
 Most if not every Wi-FI cracking methods involve using aircrack-ng. Learning how to use these tools will allow you to crack most wireless network. 
 
-### `Why learn how to perform MITM (man in the middle) attacks, sniff networks and tamper data?`
+### Why learn how to perform MITM (man in the middle) attacks, sniff networks and tamper data?
 In a sense, a man-in-the-middle attack (MITM) is like eavesdropping. Data is sent from point A (computer) to point B (server/website), and an attacker can get in-between these transmissions. They then set up tools programmed to “listen in” on transmissions, intercept data that is specifically targeted as valuable, and capture the data. Sometimes this data can be modified in the process of transmission to try to trick the end user to divulge sensitive information, such as log in credentials. Once the user has fallen for the bait, the data is collected from the target, and the original data is then forwarded to the intended destination unaltered.
 
 Sniffing and snooping. They refer to listening to a conversation. For example, if you login to a website that uses no encryption, your username and password can be sniffed off the network by someone who can capture the network traffic between you and the web site.
@@ -339,12 +338,12 @@ Spoofing refers to actively introducing network traffic pretending to be someone
 
 Tamper Data is an add-on for Firefox that lets you view and modify HTTP requests before they are sent. It shows what information the web browser is sending on your behalf, such as cookies and hidden form fields. Use of this plugin can reveal web applications that trust the client not to misbehave.
 
-### `What is Brute-forcing?`
+### What is Brute-forcing?
 A brute-force attack consists of an attacker trying many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found. Alternatively, the attacker can attempt to guess the key which is
 
 typically created from the password using a key derivation function. This is known as an exhaustive key search.
 
-### `Why learn XSS, LFI, RFI?`
+### Why learn XSS, LFI, RFI?
 Cross-site Scripting (XSS) refers to client-side code injection attack wherein an attacker can execute malicious scripts (also commonly referred to as a malicious payload) into a legitimate website or web application. XSS is amongst the most rampant of web application vulnerabilities and occurs when a web application makes use of invalidated or unencoded user input within the output it generates.
 
 Remote File inclusion (RFI) refers to an inclusion attack wherein an attacker can cause the web application to include a remote file by exploiting a web application that dynamically includes external files or scripts. The consequences of a successful RFI attack include Information Disclosure and Cross-site Scripting (XSS) to Remote Code Execution.
@@ -355,15 +354,14 @@ Local File inclusion (LFI), or simply File Inclusion, refers to an inclusion att
 
 Typically, Local File Inclusion (LFI) occurs, when an application gets the path to the file that has to be included as an input without treating it as untrusted input. This would allow a local file to be supplied to the include statement.
 
-### `What is a backdoor in Pen-testing?`
+### What is a backdoor in Pen-testing?
 Attackers can install their own backdoor on a targeted system. Doing so allows them to come and go as they please and gives them remote access to the system. Malware installed on systems for this purpose is often called a remote access Trojan, or a RAT, and can be used to install other malware on the system or exfiltrate data. 
 
 Would love writing more. Good luck on your journey and remember white hats shine more then black.
 
-<h1>Links of Different Topics</h1>
+# Links of Different Topics
 
-<h2>Best SQL injection resources</h2>
-
+## Best SQL injection resources
 - MySQL:
   - [PentestMonkey's mySQL injection cheat sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
   - [Reiners mySQL injection Filter Evasion Cheatsheet](https://websec.wordpress.com/2010/12/04/sqli-filter-evasion-cheat-sheet-mysql/)
@@ -382,7 +380,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
   - [SQLite3 Injection Cheat sheet](https://sites.google.com/site/0x7674/home/sqlite3injectioncheatsheet)
   - [Ruby on Rails (Active Record) SQL Injection Guide](http://rails-sqli.org/)
 
-<h2>CTF</h2>
+## CTF
 
 ***Read my [CTF Resources](./CTF Resources/README.md) notes which is a simply managed and updated copy of information from [ctf/resources](https://github.com/ctfs/resources/ "https://github.com/ctfs/resources/") repository***
 
@@ -416,7 +414,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
    15. [Hack the Box (HTB) machines walkthrough series](https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-secnotes/ "https://resources.infosecinstitute.com/hack-the-box-htb-walkthrough-secnotes/")
    16. [0xdf](https://0xdf.gitlab.io "https://0xdf.gitlab.io")
 
-<h2>CTF Framework</h2>
+## CTF Framework
 
 1. https://ctfd.io
 2. [Facebook’s CTF framework](https://github.com/facebook/fbctf "https://github.com/facebook/fbctf")
@@ -425,7 +423,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 5. [NightShade](https://github.com/UnrealAkama/NightShade "https://github.com/UnrealAkama/NightShade")
 6. [LibreCTF](https://github.com/easyctf/librectf "https://github.com/easyctf/librectf")
 
-<h2></br>Hacker101 Syllabus</h2>
+## Hacker101 Syllabus
 
 1. HTTP basics
 2. Cookie Security
@@ -483,9 +481,9 @@ Would love writing more. Good luck on your journey and remember white hats shine
     - Advanced Burp Hacks for
       Bounty Hunters
 
-<h2></br>Random Collected Topics</h2>
+## Random Collected Topics
 
-<h3>Footprinting and Information Gathering</h3>
+### Footprinting and Information Gathering
 
 1. From Social Media
 2. Web server `whois`
@@ -499,7 +497,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 10. Website Cookies history
 11. Recover any deleted files. [ PC or Mobile]
 
-<h3>PHP and SQL</h3>
+### PHP and SQL
 
 1. Learn Web Attacking Method
 2. SQL Injection
@@ -513,7 +511,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
    1. using Sniffing
    2. predicting Session Token
 
-<h3>System Hacking</h3>
+### System Hacking
 
 1. Password cracking method
    1. All possible
@@ -525,7 +523,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
       * Binding with real setup file
 3. Spyware
 
-<h3>Malware</h3>
+### Malware
 
 1. Trojan
 2. Batch-programming
@@ -533,21 +531,21 @@ Would love writing more. Good luck on your journey and remember white hats shine
 4. File extension viruses
 5. Backdoors virus
 
-<h3>Social Engineering</h3>
+### Social Engineering
 
 1. Phishing
 2. CSRF and XSS
 
-<h3>Denial of Service(DOS)</h3>
+### Denial of Service(DOS)
 
-<h3>SQL Injection</h3>
+### SQL Injection
 
 1. Blind SQL
 2. POST base
 3. WAF Bypass
 4. Error base
 
-<h3>Evading IDS, Firewalls, and Honeypots</h3>
+### Evading IDS, Firewalls, and Honeypots
 
 1. Remote and Local file inclusion (RFI and LFI)
 
@@ -582,17 +580,13 @@ Would love writing more. Good luck on your journey and remember white hats shine
 
 3. Cryptography
 
-<h3>Scanning Networks Web Server</h3>
-
----
+### Scanning Networks Web Server
 
 1. Nmap
 2. VEGA
 3. Acunetix
 
-<h3>Attack</h3>
-
----
+### Attack
 
 1. Login Page Injection
 2. Cross site scripting
@@ -601,9 +595,7 @@ Would love writing more. Good luck on your journey and remember white hats shine
 5. Cookie Injection
 6. Man-in-the-Middle 
 
-<h3>Extra</h3>
-
----
+### Extra
 
 1. HTML and CSS Injection
 2. Remote code execution and Directory Traversing
@@ -611,16 +603,12 @@ Would love writing more. Good luck on your journey and remember white hats shine
 4. Steganography
 5. [HackTheKeyboard](https://github.com/Sumeet-R/HackTheKeyboard?fbclid=IwAR0ZU10Pdbt9r6_8bgcWM6fnUBjFyiuntCyjIDTNxsB5E1k4lTIF3LLQFHU "https://github.com/Sumeet-R/HackTheKeyboard?fbclid=IwAR0ZU10Pdbt9r6_8bgcWM6fnUBjFyiuntCyjIDTNxsB5E1k4lTIF3LLQFHU")
 
-<h3>Exam Preparation</h3>
-
-----
+### Exam Preparation
 
 1. [OSCP-Prep](https://github.com/RustyShackleford221/OSCP-Prep "https://github.com/RustyShackleford221/OSCP-Prep")
 
 
-
 # Book List
-
 ***[Alphabetically Ordered]()***
 
 1.  Burp Suite
